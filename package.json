@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "M y Web Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulXchange/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GIT",
+    "GULP"
+  ],
+  "author": "Paul Agada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulXchange/workflow/issues"
+  },
+  "homepage": "https://github.com/PaulXchange/workflow#readme"
+}
